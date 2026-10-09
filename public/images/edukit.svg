@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title>EduKit Project Preview</title>
+  <desc>Maroon and coral educational app placeholder screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#800000"/>
+      <stop offset="60%" stop-color="#DC143C"/>
+      <stop offset="100%" stop-color="#FF8C69"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="92" y="92" width="1016" height="616" rx="34" fill="rgba(255,255,255,0.12)"/>
+  <rect x="130" y="140" width="270" height="32" rx="16" fill="rgba(255,255,255,0.92)"/>
+  <rect x="130" y="210" width="280" height="420" rx="28" fill="rgba(255,255,255,0.14)"/>
+  <rect x="460" y="210" width="620" height="180" rx="28" fill="rgba(255,255,255,0.88)"/>
+  <rect x="460" y="420" width="290" height="210" rx="28" fill="rgba(255,255,255,0.2)"/>
+  <rect x="790" y="420" width="290" height="210" rx="28" fill="rgba(255,255,255,0.14)"/>
+  <text x="130" y="650" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">EDUKIT</text>
+  <text x="130" y="700" fill="rgba(255,255,255,0.92)" font-family="Arial, sans-serif" font-size="25">Educational Desktop App</text>
+</svg>

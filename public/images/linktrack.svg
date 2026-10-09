@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title>LinkTrack Project Preview</title>
+  <desc>Maroon and crimson placeholder representing the LinkTrack project screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1A1A1A"/>
+      <stop offset="55%" stop-color="#800000"/>
+      <stop offset="100%" stop-color="#FF5349"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="82" y="82" width="1036" height="636" rx="30" fill="rgba(255,255,255,0.12)"/>
+  <rect x="130" y="140" width="230" height="28" rx="14" fill="rgba(255,255,255,0.92)"/>
+  <rect x="130" y="200" width="300" height="250" rx="28" fill="rgba(255,255,255,0.14)"/>
+  <rect x="470" y="200" width="300" height="250" rx="28" fill="rgba(255,255,255,0.2)"/>
+  <rect x="810" y="200" width="220" height="250" rx="28" fill="rgba(255,255,255,0.14)"/>
+  <rect x="130" y="500" width="900" height="80" rx="22" fill="rgba(255,255,255,0.88)"/>
+  <text x="130" y="650" fill="#ffffff" font-family="Arial, sans-serif" font-size="42" font-weight="700">LINKTRACK</text>
+  <text x="130" y="700" fill="rgba(255,255,255,0.92)" font-family="Arial, sans-serif" font-size="25">Agreement Monitoring System</text>
+</svg>
