@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title>Globalinked Project Preview</title>
+  <desc>Maroon and coral editorial placeholder representing the Globalinked project screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#800000"/>
+      <stop offset="55%" stop-color="#DC143C"/>
+      <stop offset="100%" stop-color="#FF8C69"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="72" y="72" width="1056" height="656" rx="34" fill="rgba(255,255,255,0.12)"/>
+  <rect x="130" y="130" width="280" height="34" rx="17" fill="rgba(255,255,255,0.9)"/>
+  <rect x="130" y="200" width="430" height="70" rx="18" fill="rgba(255,255,255,0.88)"/>
+  <rect x="130" y="300" width="430" height="24" rx="12" fill="rgba(255,255,255,0.72)"/>
+  <rect x="130" y="348" width="340" height="24" rx="12" fill="rgba(255,255,255,0.72)"/>
+  <rect x="130" y="430" width="410" height="220" rx="28" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="940" cy="330" r="170" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="1020" cy="260" r="80" fill="rgba(255,255,255,0.25)"/>
+  <text x="135" y="565" fill="#ffffff" font-family="Arial, sans-serif" font-size="44" font-weight="700">GLOBALINKED</text>
+  <text x="135" y="620" fill="rgba(255,255,255,0.92)" font-family="Arial, sans-serif" font-size="26">Agreement Monitoring System</text>
+</svg>
